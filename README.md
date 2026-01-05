@@ -4,7 +4,7 @@
 | :----- | :----- |:----- |:----- |
 |Processor |Intel Core i3-10100	|Coffee Lake	|Intel HD Graphics 630|
 |Memory	   |Samsung 3200MHz DDR4 32GB	|OS Disk	|WD Blue SN5000 NVMe 1TB|
-|Audio	   |Realtek ALC222	|WiFi/Bluetooth	|Intel Wifi-6 AX201|
+|Audio	   |Realtek ALC222 -11	|WiFi/Bluetooth	|Intel Wifi-6 AX201|
 |BIOS      |HP Inc. Q470  | Opencore| release 1.0.6
 
 
