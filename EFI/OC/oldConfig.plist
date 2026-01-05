@@ -889,13 +889,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02025501GUPHC18C</string>
+                <string>C02148802GUPHC11F</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>ULcr1Yid</data>
+                <data>WaEF6cpN</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -903,9 +903,9 @@
                 <key>SystemProductName</key>
                 <string>iMac20,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02CWUZWPN5T</string>
+                <string>C02GR2ZPPN5T</string>
                 <key>SystemUUID</key>
-                <string>103CE478-28F8-4FCC-8500-A84C09B8A9C2</string>
+                <string>462FC48F-6526-44C8-BDD3-D5CE5ADF0716</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
@@ -1080,7 +1080,7 @@
                 <key>IgnoreTextInGraphics</key>
                 <false/>
                 <key>InitialMode</key>
-                <string>Auto</string>
+                <string></string>
                 <key>ProvideConsoleGop</key>
                 <true/>
                 <key>ReconnectGraphicsOnConnect</key>
