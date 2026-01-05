@@ -15,6 +15,7 @@ BIOS Settings : 
 
 
 # N. Log
+[Hardware-Sniffer](https://github.com/lzhoang2801/Hardware-Sniffer)
 [OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify)
 [OCLP-Mod](https://github.com/laobamac/OCLP-Mod)
 [OCAT](https://github.com/ic005k/OCAuxiliaryTools)
