@@ -15,3 +15,8 @@ BIOS Settings : 
 
 
 # N. Log
+[OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify)
+[OCLP-Mod](https://github.com/laobamac/OCLP-Mod)
+[OCAT](https://github.com/ic005k/OCAuxiliaryTools)
+[Hackintosh](https://github.com/benbaker76/Hackintool)
+[balenaEtcher](https://etcher.balena.io/)
